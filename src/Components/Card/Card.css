@@ -1,0 +1,33 @@
+.card {
+  border: none;
+  height: 60vh;
+  width: 270px;
+}
+#text {
+  background-color: beige;
+  height: 40vh !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+  overflow: hidden;
+  font-family: "Courgette", cursive;
+}
+
+#author {
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: "Dancing Script", cursive;
+}
+
+span i {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+a {
+  color: black;
+}

@@ -1,0 +1,14 @@
+.btn {
+  all: unset;
+  text-align: center;
+  cursor: pointer;
+  background-color: white;
+  font-size: small;
+}
+
+.btn:focus {
+  all: unset;
+  text-align: center;
+  cursor: pointer;
+  font-size: small;
+}

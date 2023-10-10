@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anedvago/Generador-De-Frases-Ig/static/css/main.fd7b48ad.css",
+    "main.js": "/Anedvago/Generador-De-Frases-Ig/static/js/main.a71268a0.js",
+    "index.html": "/Anedvago/Generador-De-Frases-Ig/index.html",
+    "main.fd7b48ad.css.map": "/Anedvago/Generador-De-Frases-Ig/static/css/main.fd7b48ad.css.map",
+    "main.a71268a0.js.map": "/Anedvago/Generador-De-Frases-Ig/static/js/main.a71268a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd7b48ad.css",
+    "static/js/main.a71268a0.js"
+  ]
+}
